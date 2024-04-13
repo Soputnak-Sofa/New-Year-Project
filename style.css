@@ -1,0 +1,80 @@
+header, footer {
+    background-color: red;
+}
+
+.list {
+    color: chartreuse;
+    font-size: 20px;
+    text-decoration: none;
+}
+
+.home {
+    gap: 20px;
+    display: flex;
+    justify-content: center;
+    list-style: none;
+}
+
+.santa_claus {
+    width: 150px;
+    height: 100px;
+}
+
+.cases {
+    display: flex;
+    justify-content: center;
+    gap: 30px;
+    list-style: none;
+    text-align: center;
+}
+
+.case {
+    width: 300px;
+    height: 350px;
+}
+
+.nav {
+    width: 450px;
+    height: 350;
+}
+
+h1, h2, h3 {
+    display: flex;
+    justify-content: center;
+}
+
+
+
+.nav_list {
+        background-color: skyblue;
+        margin-top: 10px;
+        font-size: 35px;
+        list-style: none;
+        justify-content: center;
+}
+
+.nav_list_link {
+    text-align: left;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 30px;
+}
+
+.diag {
+    display: flex;
+    justify-content: center;
+    list-style: none;
+}
+
+.moments {
+    font-size: 30px;
+    background-color: chartreuse;
+}
+
+.plans {
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+    list-style: none;
+}
+
